@@ -1,0 +1,26 @@
+*{margin: 0; padding: 0; box-sizing: border-box; font-family: Arial, Helvetica, sans-serif; font-size: 14px;}
+
+.main{width: 650px; margin: auto; margin-top: 40px; background-color: rgba(70, 196, 255, 0.521); border: 1px solid grey; box-shadow: 2px 2px grey; min-height: 900px; margin-bottom: 100px;}
+
+.main .head{width: 100%; height: 1.25in; background-color: #3591ec;}
+.main .head h1{color: white; display: block; padding-left: 37%; padding-top: 60px; font-size: 38px; position: relative; z-index: 0;}
+.avator{width: 120px; height: 140px; background-color: grey; border: 5px solid white; position: absolute; z-index: 1; margin-top: -80px; margin-left: 40px;}
+.divider{width: 100%; height: 2px; background-color: white;}
+.h2{background-color: turquoise; padding: 2px; padding-left: 38%; position: relative ; z-index: -1;}
+.asider{width: 2.25in; min-height: 810px; background-color: teal; position: absolute; z-index: 0; margin-top: -55px; box-shadow: 1px 2px 2px grey; padding-top: 100px; padding-left: 10px; padding-right: 10px;}
+.asider a{display: flex; text-decoration: none;}
+.asider p{text-align: justify; margin-top: 5px;}
+.asider a img{height: 40px; width: auto; border-radius: 15px;}
+.asider a .img{height: 30px;}
+.asider a p{margin-left: 20px; font-size: 12px; text-decoration: none; margin-top: 7px;}
+
+.content{margin-left: 2.5in; margin-right: 20px;}
+.title{text-transform: uppercase; margin-top: 20px;}
+.content p{color: rgb(81, 140, 228); margin-left: 10px; margin-top: 5px; text-align: justify; font-size: small; }
+.bold{font-weight: bold;}
+h4{font-size: 12px; color: cornflowerblue; margin-top: 10px; margin-bottom: -5px;}
+.content ol{margin: 5px 25px;}
+.content ol{color: rgb(4, 76, 78);}
+
+.asider .title{color: white;}
+.asider p{color: black;}
